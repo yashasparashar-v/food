@@ -1,0 +1,8 @@
+{
+  "name": "BITE",
+  "description": "Neo-Brutalist food discovery app UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
